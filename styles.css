@@ -66,6 +66,11 @@ padding-left: 44px;
     color: white;
 }
 
+#profile a{
+    color: black;
+    text-decoration: none;
+}
+
 .last_div{
     display: flex;
     justify-content: space-between;
@@ -128,7 +133,8 @@ li a{
         background-color: #fff;
         color: black;
     }
-    
+
+
     .last_nav{
         font-size: 12px;
         padding-top: 23px;
